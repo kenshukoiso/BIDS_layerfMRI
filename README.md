@@ -1,6 +1,7 @@
 # BIDS_layerfMRI
 A project from OHBM BrainHack 2026 <br />
-Based on discussions with the community during the OHBM BrainHack (2026), we propose the following structure as “initial prototype” with the minimum requirement for organizing layer-fMRI datasets. Files that required new BIDSfycation are highligted in *italic*.
+Based on discussions with the community during the OHBM BrainHack (2026), we propose the following structure as “initial prototype” with the minimum requirement for organizing layer-fMRI datasets. Files that required new BIDSfycation are highligted in *italic*.  <br />
+Prototype dataset: https://zenodo.org/records/20679524
 
 Dataset_layer-fMRI_example <br />
 Dataset_description.json <br />
@@ -28,5 +29,4 @@ Dataset_description.json <br />
 │  └── sub-02_sess-04_task-movie_run-01_space-NATIVE_stat-mean_bold.nii.gz <br />
 │  └── sub-02_sess-04_task-movie_run-01_space-NATIVE_stat-tsnr_bold.nii.gz <br />
 
-
-![Logo](logo.jpeg)
+<img src="logo.jpeg" width="250">
